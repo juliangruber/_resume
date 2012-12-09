@@ -30,9 +30,30 @@ Repo: [juliangruber/node-leveled](https://github.com/juliangruber/node-leveled)
 
 ### contre
 
+A continuous release tool that acts as a GIT repo server and lays repos out in a github-style directory structure
+whenever you push to it. I created this for [component](https://github.com/component/component).
+
+Repos: [godmodelabs/contre](https://github.com/godmodelabs/contre)
+
 ### fwd
 
-### lllint
+Taking the idea of piping streams into each other and applying that on the concept of EventEmitters.
+
+```js
+// with streams
+streamA.pipe(streamB)
+// with fwd
+fwd(emitterA, emitterB)
+```
+
+Repo: [godmodelabs/fwd](https://github.com/godmodelabs/fwd)
+
+### llint.chocmixin
+
+A [Chocolat](http://chocolatapp.com/)-Mixin that reorders less/css lines by alphabet and importance.
+
+This uses [llint](https://github.com/juliangruber/llint) and [parseless](https://github.com/juliangruber/parseless), my
+less/css parser.
 
 ### jilla
 
