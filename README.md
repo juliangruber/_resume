@@ -23,7 +23,9 @@ This is a realtime trading platform that I've been working on:
 
 And a pattern tracking financial tool:
 
-Links: [guidants.godmode-trader.de](http://guidants.godmode-trader.de/) | ![patternscout](http://i.imgur.com/vNrLh.png)
+![patternscout](http://i.imgur.com/vNrLh.png)
+
+Links: [guidants.godmode-trader.de](http://guidants.godmode-trader.de/)
 
 ## leveled
 
