@@ -57,6 +57,8 @@ A [Chocolat](http://chocolatapp.com/)-Mixin that reorders less/css lines by alph
 This uses [llint](https://github.com/juliangruber/llint) and [parseless](https://github.com/juliangruber/parseless), my
 less/css parser.
 
+Link: [mixins.chocolatapp.com](http://mixins.chocolatapp.com/mixins/20/)
+
 ### jilla
 
 Geeking up JIRA by writing a efficient-to-use cli interface for it.
@@ -103,6 +105,10 @@ Repo: [juliangruber/dashbo](https://github.com/juliangruber/dashbo)
 ### collab-tunes
 
 ### patternscout
+
+I've been working on this pattern tracking financial tool for [Boerse Go](http://www.godmode-trader.de/).
+
+![patternscout](http://i.imgur.com/vNrLh.png)
 
 ### cms-builder
 
