@@ -145,6 +145,10 @@ Also, the t-shirt I did:
 
 ## openmasse
 
+A bookmarklet that helps with opening many links at once.
+
+Links: [website](http://juliangruber.github.com/openmasse/) | [repo](https://github.com/juliangruber/openmasse)
+
 ## ritterschaft zu wasserstein
 
 ![front](https://dl.dropbox.com/s/1x1w2a0kp5v3cye/rzw-f.jpg)
