@@ -13,13 +13,17 @@ WIP - This is about creating a social network, that
 
 For more, read [channel based networks](https://gist.github.com/4143091)
 
-## guidants.com
+## boerse go ag
 
-This is a realtime trading platform that I've been working on for [Boerse Go](http://www.godmode-trader.de/).
+I'm currently employed at  [BoerseGo AG](http://www.godmode-trader.de/).
+
+This is a realtime trading platform that I've been working on:
 
 ![guidants](http://i.imgur.com/VhQ5I.png)
 
-Link: [guidants.godmode-trader.de](http://guidants.godmode-trader.de/)
+And a pattern tracking financial tool:
+
+Links: [guidants.godmode-trader.de](http://guidants.godmode-trader.de/) | ![patternscout](http://i.imgur.com/vNrLh.png)
 
 ## leveled
 
@@ -125,12 +129,6 @@ The drum editor:
 Link: [collab-tunes](http://glowing-waterfall-3782.herokuapp.com/) (links are shareable! needs a recent chome & might take a while to load the first time)
 
 Also there is a keyboard demo which you can try out [here](http://juliangruber.com/synth.html)
-
-## patternscout
-
-I've been working on this pattern tracking financial tool for [Boerse Go](http://www.godmode-trader.de/).
-
-![patternscout](http://i.imgur.com/vNrLh.png)
 
 ## running death - the call of extinction
 
