@@ -21,6 +21,8 @@ This is a realtime trading platform that I've been working on for [Boerse Go](ht
 
 ![guidants](http://i.imgur.com/VhQ5I.png)
 
+Link: [guidants.godmode-trader.de](http://guidants.godmode-trader.de/)
+
 ### leveled
 
 A node.js binding to [LevelDB](http://code.google.com/p/leveldb/) with focus on performance and a minimal api,
