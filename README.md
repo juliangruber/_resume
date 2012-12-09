@@ -172,6 +172,9 @@ Repo: [juliangruber/rayboy](https://github.com/juliangruber/rayboy)
 
 ## random artworks
 
-![wide](https://dl.dropbox.com/s/kg6ray02qrykldy/breit.png)
-![design](https://dl.dropbox.com/s/rsit9xhgfldn6xh/Screen%20Shot%202012-12-09%20at%2010.47.30%20AM.png)
+<img src="https://dl.dropbox.com/s/kg6ray02qrykldy/breit.png" width="50%">
+<img src="https://dl.dropbox.com/s/rsit9xhgfldn6xh/Screen%20Shot%202012-12-09%20at%2010.47.30%20AM.png" width="50%">
+
+c'est moi:
+
 ![surreal](https://dl.dropbox.com/s/pj85an8tyqqarno/5.jpg)
