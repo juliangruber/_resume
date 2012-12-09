@@ -1,6 +1,6 @@
 # resume
 
-this is the notable stuff I've done
+this is the notable creative stuff I've done
 
 ## 2012
 
