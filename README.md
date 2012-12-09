@@ -1,4 +1,3 @@
-
 # resume
 
 ## 2012
@@ -25,9 +24,11 @@
 
 ### collab-tunes
 
+### patternscout
+
 ### cms-builder
 
-### patternscout
+### running death - the call of extinction
 
 ### random projects
 
@@ -41,3 +42,5 @@
 ## 2010
 
 ### rayboy
+
+### jakob-brucker-gymnasium.de
