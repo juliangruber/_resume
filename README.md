@@ -127,23 +127,21 @@ I've been working on this pattern tracking financial tool for [Boerse Go](http:/
 
 ## running death - the call of extinction
 
-I created this cover based on a pencil drawing by a friend.
+I created cover and logo based on pencil drawings by a friend.
 
 ![cover](http://juliangruber.com/images/running-death/cover-call-of-extinction.jpg)
-![cover 2](http://i.imgur.com/Gv1i7.jpg)
-
-Additional artwork, where you can see the band logo created the same way:
-
 ![inside](http://juliangruber.com/images/running-death/collage.jpg)
 
-And a t-shirt by me:
+Also, the t-shirt I did:
 
 ![shirt](https://dl.dropbox.com/s/dultpww5r5y4unb/artwork_stripes_finalized.jpg)
 
 ## random projects
 
-* tapedeck
-* spinner
+* [tapedeck](https://github.com/juliangruber/tapedeck) - Run tap(e) tests in your browser with tap output in your terminal
+* [spinner](https://github.com/godmodelabs/spinner)
+
+![spinner](http://i.imgur.com/Iyl0d.png)
 
 ## openmasse
 
