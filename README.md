@@ -20,6 +20,8 @@ this is the notable stuff I've done
 
 ### alrt.io
 
+### dtlot.com
+
 ### statsc
 
 ### dashbo
