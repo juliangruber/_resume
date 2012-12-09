@@ -57,13 +57,43 @@ less/css parser.
 
 ### jilla
 
+Geeking up JIRA by writing a efficient-to-use cli interface for it.
+
+Ever wished, you could:
+
+```bash
+$ jilla ls
+WDSERVICE-78 <jgruber>  !! LessLinter
+PS-656       <jgruber>  !! Graphite installieren
+PS-480       <pkostoff>  ! Trailing stops
+```
+
+This also does time loggin, search, resolve/close/etc.
+
+Repo: [godmodelabs/jilla](https://github.com/godmodelabs/jilla)
+
 ### alrt.io
 
-### dtlot.com
+Quickly create timers from your browsers via URLS, eg. [3s timer](http://alrt.io/3s).
+
+Needs Google Chrome for notifications.
+
+Link: [alrt.io](http://alrt.io/)
+Repo: [juliangruber/alrt.io](https://github.com/juliangruber/alrt.io)
 
 ### statsc
 
+Push stats to StatsD from the browser!
+
+Repo: [godmodelabs/statsc](https://github.com/godmodelabs/statsc)
+
 ### dashbo
+
+A frontend for the [graphite](http://graphite.wikidot.com/) graphing server with dashboards and other goodies.
+
+![dashbo](https://raw.github.com/juliangruber/dashbo/master/screenshots/dashbo-indicators.png)
+
+Repo: [juliangruber/dashbo](https://github.com/juliangruber/dashbo)
 
 ### collab-tunes
 
