@@ -102,6 +102,8 @@ A frontend for the [graphite](http://graphite.wikidot.com/) graphing server with
 
 Repo: [juliangruber/dashbo](https://github.com/juliangruber/dashbo)
 
+### introduction to erlang
+
 ### collab-tunes
 
 I started this with the idea to create a Digital Audio Workstation (DAW) that runs in browsers and allows for easy
@@ -121,17 +123,20 @@ I've been working on this pattern tracking financial tool for [Boerse Go](http:/
 
 ![patternscout](http://i.imgur.com/vNrLh.png)
 
-### cms-builder
-
 ### running death - the call of extinction
 
 I created this cover based on a pencil drawing by a friend.
 
 ![cover](http://juliangruber.com/images/running-death/cover-call-of-extinction.jpg)
+![cover 2](http://i.imgur.com/Gv1i7.jpg)
 
 Additional artwork, where you can see the band logo created the same way:
 
 ![inside](http://juliangruber.com/images/running-death/collage.jpg)
+
+And a t-shirt by me:
+
+![shirt](https://dl.dropbox.com/s/dultpww5r5y4unb/artwork_stripes_finalized.jpg)
 
 ### random projects
 
