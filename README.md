@@ -129,12 +129,12 @@ I've been working on this pattern tracking financial tool for [Boerse Go](http:/
 
 I created cover and logo based on pencil drawings by a friend.
 
-![cover](http://juliangruber.com/images/running-death/cover-call-of-extinction.jpg)
-![inside](http://juliangruber.com/images/running-death/collage.jpg)
+<img src="http://juliangruber.com/images/running-death/cover-call-of-extinction.jpg" width="50%">
+<img src="http://juliangruber.com/images/running-death/collage.jpg" width="50%">
 
 Also, the t-shirt I did:
 
-![shirt](https://dl.dropbox.com/s/dultpww5r5y4unb/artwork_stripes_finalized.jpg)
+<img src="https://dl.dropbox.com/s/dultpww5r5y4unb/artwork_stripes_finalized.jpg" width="50%">
 
 ## random projects
 
