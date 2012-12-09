@@ -102,6 +102,10 @@ Repo: [juliangruber/dashbo](https://github.com/juliangruber/dashbo)
 
 ## introduction to erlang
 
+![excerpt](http://i.imgur.com/JXGR8.png)
+
+Download: [paper](https://dl.dropbox.com/s/cyy9iv2y1rcqa3s/Ausarbeitung.pdf?dl=1)
+
 ## collab-tunes
 
 I started this with the idea to create a Digital Audio Workstation (DAW) that runs in browsers and allows for easy
