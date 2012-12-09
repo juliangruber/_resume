@@ -18,6 +18,8 @@ Links:
 * [drum editor](http://glowing-waterfall-3782.herokuapp.com/) (links are shareable! needs a recent chome & might take a while to load the first time)
 * [synthesizer](http://juliangruber.com/synth.html)
 
+Using: redis, node.js, expressjs, socket.io, stylus, jade, jquery, browserify
+
 ### alrt.io
 
 Quickly create timers from your browsers via URLS, eg. [3s timer](http://alrt.io/3s).
@@ -27,6 +29,8 @@ Needs a browser that supports the Notification API, see [caniuse.com](http://can
 ![alrt.io](https://dl.dropbox.com/s/zx37hd68tncgmq4/Screen%20Shot%202012-12-09%20at%204.08.35%20PM.png)
 
 Links: [alrt.io](http://alrt.io/) | [repo](https://github.com/juliangruber/alrt.io)
+
+Using: node.js, expressjs, jade
 
 ### misc
 
