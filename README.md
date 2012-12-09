@@ -31,20 +31,16 @@ Link: [collab-tunes](http://glowing-waterfall-3782.herokuapp.com/) (links are sh
 
 Also there is a keyboard demo which you can try out [here](http://juliangruber.com/synth.html)
 
-### jakob-brucker-gymnasium.de
+### misc
 
-I created the website for my old school in 10th grade or so with a team of 4 people, me being the lead.
+Websites I coded and designed while in school:
 
-I did the design too.
+<img src="http://juliangruber.com/images-full/jbg/home.png" width="33%">
+<img src="https://dl.dropbox.com/s/1x1w2a0kp5v3cye/rzw-f.jpg" width="33%">
+<img src="https://dl.dropbox.com/s/p6ymyybxkvx7pdn/rzw-g.jpg" width="33%">
 
-![jakob-brucker-gymnasium](http://juliangruber.com/images-full/jbg/home.png)
-
-Link: [jakob-brucker-gymasnium.de](http://jakob-brucker-gymnasium.de/)
-
-### ritterschaft zu wasserstein
-
-<img src="https://dl.dropbox.com/s/1x1w2a0kp5v3cye/rzw-f.jpg" width="50%">
-<img src="https://dl.dropbox.com/s/p6ymyybxkvx7pdn/rzw-g.jpg" width="50%">
+Links: [jakob-brucker-gymasnium.de](http://jakob-brucker-gymnasium.de/) |
+[ritterschaft-zu-wasserstein.de](http://ritterschaft-zu-wasserstein.de/)
 
 ## boerse go ag
 
