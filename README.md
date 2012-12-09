@@ -104,6 +104,17 @@ Repo: [juliangruber/dashbo](https://github.com/juliangruber/dashbo)
 
 ### collab-tunes
 
+I started this with the idea to create a Digital Audio Workstation (DAW) that runs in browsers and allows for easy
+collaboration. This soon became way too complex for one person to do after work, so it's on pause.
+
+The drum editor:
+
+![collab-tunes](http://i.imgur.com/NgVyX.png)
+
+Link: [collab-tunes](http://glowing-waterfall-3782.herokuapp.com/) (might take a while to load the first time)
+
+Also there is a keyboard demo which you can try out [here](http://juliangruber.com/synth.html)
+
 ### patternscout
 
 I've been working on this pattern tracking financial tool for [Boerse Go](http://www.godmode-trader.de/).
@@ -113,6 +124,14 @@ I've been working on this pattern tracking financial tool for [Boerse Go](http:/
 ### cms-builder
 
 ### running death - the call of extinction
+
+I created this cover based on a pencil drawing by a friend.
+
+![cover](http://juliangruber.com/images/running-death/cover-call-of-extinction.jpg)
+
+Additional artwork, where you can see the band logo created the same way:
+
+![inside](http://juliangruber.com/images/running-death/collage.jpg)
 
 ### random projects
 
@@ -132,15 +151,29 @@ I've been working on this pattern tracking financial tool for [Boerse Go](http:/
 
 ![tod](https://dl.dropbox.com/s/q6yd6m1gv0oyh9s/tod_wp_n.jpg)
 
-## 2010
-
-### rayboy
+## before
 
 ### jakob-brucker-gymnasium.de
+
+I created the website for my old school in 10th grade or so with a team of 4 people, me being the lead.
+
+I did the design too.
+
+![jakob-brucker-gymnasium](http://juliangruber.com/images-full/jbg/home.png)
+
+Link: [jakob-brucker-guymasnium.de](http://jakob-brucker-gymnasium.de/)
 
 ### gruber-consulting
 
 ![card](https://dl.dropbox.com/s/p4iqbknaa0605v8/vk_4.jpg)
+
+### rayboy
+
+A raytracer I wrote for educational purposes in 9th grade. It's written in C++ and can only render colored spheres.
+
+
+
+Repo: [juliangruber/rayboy](https://github.com/juliangruber/rayboy)
 
 ### random projects
 
