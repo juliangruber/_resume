@@ -166,10 +166,6 @@ I did the design too.
 
 Link: [jakob-brucker-guymasnium.de](http://jakob-brucker-gymnasium.de/)
 
-## gruber-consulting
-
-![card](https://dl.dropbox.com/s/p4iqbknaa0605v8/vk_4.jpg)
-
 ## rayboy
 
 A raytracer I wrote for educational purposes in 9th grade. It's written in C++ and can only render colored spheres.
