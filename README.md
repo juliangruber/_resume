@@ -1,5 +1,7 @@
 # resume
 
+this is the notable stuff I've done
+
 ## 2012
 
 ### chnnls.net
