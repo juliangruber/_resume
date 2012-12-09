@@ -26,7 +26,7 @@ Link: [guidants.godmode-trader.de](http://guidants.godmode-trader.de/)
 ### leveled
 
 A node.js binding to [LevelDB](http://code.google.com/p/leveldb/) with focus on performance and a minimal api,
-allowing you to write databases in JavaScript!
+allowing you to write databases in JavaScript.
 
 Repo: [juliangruber/node-leveled](https://github.com/juliangruber/node-leveled)
 
@@ -35,7 +35,7 @@ Repo: [juliangruber/node-leveled](https://github.com/juliangruber/node-leveled)
 A continuous release tool that acts as a GIT repo server and lays repos out in a github-style directory structure
 whenever you push to it. I created this for [component](https://github.com/component/component).
 
-Repos: [godmodelabs/contre](https://github.com/godmodelabs/contre)
+Repo: [godmodelabs/contre](https://github.com/godmodelabs/contre)
 
 ### fwd
 
