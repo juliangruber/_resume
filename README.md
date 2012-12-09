@@ -11,7 +11,7 @@ collaboration, in contrast to current DAW solutions.
 
 The drum editor:
 
-![collab-tunes](http://i.imgur.com/NgVyX.png)
+![collab-tunes](https://dl.dropbox.com/s/ntntlpaf5jm8m6z/Screen%20Shot%202012-12-09%20at%204.09.35%20PM.png)
 
 Links:
 
@@ -22,17 +22,16 @@ Links:
 
 Quickly create timers from your browsers via URLS, eg. [3s timer](http://alrt.io/3s).
 
-Needs Google Chrome for notifications.
+Needs a browser that supports the Notification API, see [caniuse.com](http://caniuse.com/notifications).
 
-![alrt.io](http://i.imgur.com/v62bT.png)
+![alrt.io](https://dl.dropbox.com/s/zx37hd68tncgmq4/Screen%20Shot%202012-12-09%20at%204.08.35%20PM.png)
 
 Links: [alrt.io](http://alrt.io/) | [repo](https://github.com/juliangruber/alrt.io)
 
 ### misc
 
-<img src="http://juliangruber.com/images-full/jbg/home.png" width="33%">
-<img src="https://dl.dropbox.com/s/1x1w2a0kp5v3cye/rzw-f.jpg" width="33%">
-<img src="https://dl.dropbox.com/s/p6ymyybxkvx7pdn/rzw-g.jpg" width="33%">
+<img src="https://dl.dropbox.com/s/4xfil4vgdyxzo9m/Screen%20Shot%202012-12-09%20at%204.10.34%20PM.png" width="50%">
+<img src="https://dl.dropbox.com/s/b8ohr2te9femgwv/Screen%20Shot%202012-12-09%20at%204.11.13%20PM.png" width="50%">
 
 Links: [jakob-brucker-gymasnium.de](http://jakob-brucker-gymnasium.de/) |
 [ritterschaft-zu-wasserstein.de](http://ritterschaft-zu-wasserstein.de/)
@@ -41,13 +40,13 @@ Links: [jakob-brucker-gymasnium.de](http://jakob-brucker-gymnasium.de/) |
 
 I'm currently employed at [BoerseGo AG](http://www.godmode-trader.de/).
 
-This is a realtime trading platform that I've been working on:
+This is a realtime trading platform we've been working on:
 
-![guidants](http://i.imgur.com/VhQ5I.png)
+![guidants](https://dl.dropbox.com/s/uctk4kygm2bbw85/Screen%20Shot%202012-12-09%20at%204.13.44%20PM.png)
 
 And a pattern tracking financial tool:
 
-![patternscout](http://i.imgur.com/vNrLh.png)
+![patternscout](https://dl.dropbox.com/s/bj5pden8o1jfa8q/Screen%20Shot%202012-12-09%20at%204.14.37%20PM.png)
 
 Links: [guidants.godmode-trader.de](http://guidants.godmode-trader.de/)
 
@@ -70,7 +69,7 @@ Repo: [godmodelabs/statsc](https://github.com/godmodelabs/statsc)
 
 A frontend for the [graphite](http://graphite.wikidot.com/) graphing server with dashboards and other goodies.
 
-![dashbo](https://raw.github.com/juliangruber/dashbo/master/screenshots/dashbo-indicators.png)
+![dashbo](https://dl.dropbox.com/s/zb45sc344kf70g2/Screen%20Shot%202012-12-09%20at%204.15.20%20PM.png)
 
 Repo: [juliangruber/dashbo](https://github.com/juliangruber/dashbo)
 
@@ -173,8 +172,7 @@ I created the t-shirt and designed cover and logo based on pencil drawings by a 
 
 ### misc
 
-<img src="https://dl.dropbox.com/s/kg6ray02qrykldy/breit.png" width="50%">
-<img src="https://dl.dropbox.com/s/rsit9xhgfldn6xh/Screen%20Shot%202012-12-09%20at%2010.47.30%20AM.png" width="50%">
+<img src="https://dl.dropbox.com/s/kg6ray02qrykldy/breit.png">
 
 c'est moi:
 
