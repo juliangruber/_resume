@@ -6,9 +6,27 @@ this is the notable stuff I've done
 
 ### chnnls.net
 
+WIP - This is about creating a social network, that
+
+* replaces all the others (channels can have restrictions on content types)
+* respects privacy, users own their data
+* is not censorable
+* has as few centralized parts as possible and thus scales very well
+
+For more, read [channel based networks](https://gist.github.com/4143091)
+
 ### guidants.com
 
+This is a realtime trading platform that I've been working on for [Boerse Go](http://www.godmode-trader.de/).
+
+![guidants](http://i.imgur.com/VhQ5I.png)
+
 ### leveled
+
+A node.js binding to [LevelDB](http://code.google.com/p/leveldb/) with focus on performance and a minimal api,
+allowing you to write databases in JavaScript!
+
+Repo: [juliangruber/node-leveled](https://github.com/juliangruber/node-leveled)
 
 ### contre
 
