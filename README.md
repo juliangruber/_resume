@@ -129,13 +129,9 @@ I've been working on this pattern tracking financial tool for [Boerse Go](http:/
 
 ## running death - the call of extinction
 
-I created cover and logo based on pencil drawings by a friend.
+I created the t-shirt and designed cover and logo based on pencil drawings by a friend.
 
 <img src="http://juliangruber.com/images/running-death/cover-call-of-extinction.jpg" width="50%">
-<img src="http://juliangruber.com/images/running-death/collage.jpg" width="50%">
-
-Also, the t-shirt I did:
-
 <img src="https://dl.dropbox.com/s/dultpww5r5y4unb/artwork_stripes_finalized.jpg" width="50%">
 
 ## random projects
