@@ -26,6 +26,11 @@ Link: [guidants.godmode-trader.de](http://guidants.godmode-trader.de/)
 A node.js binding to [LevelDB](http://code.google.com/p/leveldb/) with focus on performance and a minimal api,
 allowing you to write databases in JavaScript.
 
+```js
+var db = leveled('/tmp/db')
+db.set('foo', 'bar')
+```
+
 Repo: [juliangruber/node-leveled](https://github.com/juliangruber/node-leveled)
 
 ## contre
