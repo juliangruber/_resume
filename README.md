@@ -115,7 +115,7 @@ The drum editor:
 
 ![collab-tunes](http://i.imgur.com/NgVyX.png)
 
-Link: [collab-tunes](http://glowing-waterfall-3782.herokuapp.com/) (might take a while to load the first time)
+Link: [collab-tunes](http://glowing-waterfall-3782.herokuapp.com/) (needs a recent chome & might take a while to load the first time)
 
 Also there is a keyboard demo which you can try out [here](http://juliangruber.com/synth.html)
 
