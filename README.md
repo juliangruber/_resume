@@ -1,8 +1,6 @@
 # resume
 
-this is the notable creative stuff I've done (might not be up-to-date)
-
-## 2012
+this is the notable creative stuff I've done in chronologically descending order (might not be up-to-date).
 
 ## chnnls.net
 
@@ -50,7 +48,7 @@ fwd(emitterA, emitterB)
 
 Repo: [godmodelabs/fwd](https://github.com/godmodelabs/fwd)
 
-### llint.chocmixin
+## llint.chocmixin
 
 A [Chocolat](http://chocolatapp.com/)-Mixin that reorders less/css lines by alphabet and importance.
 
@@ -59,7 +57,7 @@ less/css parser.
 
 Link: [mixins.chocolatapp.com](http://mixins.chocolatapp.com/mixins/20/)
 
-### jilla
+## jilla
 
 Geeking up JIRA by writing an efficient-to-use cli interface for it.
 
@@ -76,7 +74,7 @@ This also does time loggin, search, resolve/close/etc.
 
 Repo: [godmodelabs/jilla](https://github.com/godmodelabs/jilla)
 
-### alrt.io
+## alrt.io
 
 Quickly create timers from your browsers via URLS, eg. [3s timer](http://alrt.io/3s).
 
@@ -88,13 +86,13 @@ Link: [alrt.io](http://alrt.io/)
 
 Repo: [juliangruber/alrt.io](https://github.com/juliangruber/alrt.io)
 
-### statsc
+## statsc
 
 Push stats to StatsD from the browser!
 
 Repo: [godmodelabs/statsc](https://github.com/godmodelabs/statsc)
 
-### dashbo
+## dashbo
 
 A frontend for the [graphite](http://graphite.wikidot.com/) graphing server with dashboards and other goodies.
 
@@ -102,9 +100,9 @@ A frontend for the [graphite](http://graphite.wikidot.com/) graphing server with
 
 Repo: [juliangruber/dashbo](https://github.com/juliangruber/dashbo)
 
-### introduction to erlang
+## introduction to erlang
 
-### collab-tunes
+## collab-tunes
 
 I started this with the idea to create a Digital Audio Workstation (DAW) that runs in browsers and allows for easy
 collaboration. This soon became way too complex for one person to do after work, so it's on pause.
@@ -117,13 +115,13 @@ Link: [collab-tunes](http://glowing-waterfall-3782.herokuapp.com/) (might take a
 
 Also there is a keyboard demo which you can try out [here](http://juliangruber.com/synth.html)
 
-### patternscout
+## patternscout
 
 I've been working on this pattern tracking financial tool for [Boerse Go](http://www.godmode-trader.de/).
 
 ![patternscout](http://i.imgur.com/vNrLh.png)
 
-### running death - the call of extinction
+## running death - the call of extinction
 
 I created this cover based on a pencil drawing by a friend.
 
@@ -138,27 +136,23 @@ And a t-shirt by me:
 
 ![shirt](https://dl.dropbox.com/s/dultpww5r5y4unb/artwork_stripes_finalized.jpg)
 
-### random projects
+## random projects
 
 * tapedeck
 * spinner
 
-## 2011
+## openmasse
 
-### openmasse
-
-### ritterschaft zu wasserstein
+## ritterschaft zu wasserstein
 
 ![front](https://dl.dropbox.com/s/1x1w2a0kp5v3cye/rzw-f.jpg)
 ![back](https://dl.dropbox.com/s/p6ymyybxkvx7pdn/rzw-g.jpg?dl=1)
 
-### random projects
+## random projects
 
 ![tod](https://dl.dropbox.com/s/q6yd6m1gv0oyh9s/tod_wp_n.jpg)
 
-## before
-
-### jakob-brucker-gymnasium.de
+## jakob-brucker-gymnasium.de
 
 I created the website for my old school in 10th grade or so with a team of 4 people, me being the lead.
 
@@ -168,11 +162,11 @@ I did the design too.
 
 Link: [jakob-brucker-guymasnium.de](http://jakob-brucker-gymnasium.de/)
 
-### gruber-consulting
+## gruber-consulting
 
 ![card](https://dl.dropbox.com/s/p4iqbknaa0605v8/vk_4.jpg)
 
-### rayboy
+## rayboy
 
 A raytracer I wrote for educational purposes in 9th grade. It's written in C++ and can only render colored spheres.
 
@@ -180,7 +174,7 @@ A raytracer I wrote for educational purposes in 9th grade. It's written in C++ a
 
 Repo: [juliangruber/rayboy](https://github.com/juliangruber/rayboy)
 
-### random projects
+## random artworks
 
 ![design](https://dl.dropbox.com/s/rsit9xhgfldn6xh/Screen%20Shot%202012-12-09%20at%2010.47.30%20AM.png)
 ![me](https://dl.dropbox.com/s/d8n5ksaj7amsb2p/657542_1272905483027l.jpg)
