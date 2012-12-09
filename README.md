@@ -61,7 +61,7 @@ Link: [mixins.chocolatapp.com](http://mixins.chocolatapp.com/mixins/20/)
 
 ### jilla
 
-Geeking up JIRA by writing a efficient-to-use cli interface for it.
+Geeking up JIRA by writing an efficient-to-use cli interface for it.
 
 Ever wished, you could:
 
