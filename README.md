@@ -4,6 +4,20 @@ this is the notable creative stuff I've done in no particular order (might not b
 
 ## websites
 
+### collab-tunes
+
+The idea is to create a Digital Audio Workstation (DAW) that runs in browsers and allows for easy
+collaboration, in contrast to current DAW solutions.
+
+The drum editor:
+
+![collab-tunes](http://i.imgur.com/NgVyX.png)
+
+Links:
+
+* [drum editor](http://glowing-waterfall-3782.herokuapp.com/) (links are shareable! needs a recent chome & might take a while to load the first time)
+* [synthesizer](http://juliangruber.com/synth.html)
+
 ### alrt.io
 
 Quickly create timers from your browsers via URLS, eg. [3s timer](http://alrt.io/3s).
@@ -12,28 +26,9 @@ Needs Google Chrome for notifications.
 
 ![alrt.io](http://i.imgur.com/v62bT.png)
 
-Link: [alrt.io](http://alrt.io/)
-
-Repo: [juliangruber/alrt.io](https://github.com/juliangruber/alrt.io)
-
-### collab-tunes
-
-I started this with the idea to create a Digital Audio Workstation (DAW) that runs in browsers and allows for easy
-collaboration.
-
-However this soon became way too complex for one person to do after work, so it's on pause.
-
-The drum editor:
-
-![collab-tunes](http://i.imgur.com/NgVyX.png)
-
-Link: [collab-tunes](http://glowing-waterfall-3782.herokuapp.com/) (links are shareable! needs a recent chome & might take a while to load the first time)
-
-Also there is a keyboard demo which you can try out [here](http://juliangruber.com/synth.html)
+Links: [alrt.io](http://alrt.io/) | [repo](https://github.com/juliangruber/alrt.io)
 
 ### misc
-
-Websites I coded and designed while in school:
 
 <img src="http://juliangruber.com/images-full/jbg/home.png" width="33%">
 <img src="https://dl.dropbox.com/s/1x1w2a0kp5v3cye/rzw-f.jpg" width="33%">
@@ -44,7 +39,7 @@ Links: [jakob-brucker-gymasnium.de](http://jakob-brucker-gymnasium.de/) |
 
 ## boerse go ag
 
-I'm currently employed at  [BoerseGo AG](http://www.godmode-trader.de/).
+I'm currently employed at [BoerseGo AG](http://www.godmode-trader.de/).
 
 This is a realtime trading platform that I've been working on:
 
@@ -55,42 +50,6 @@ And a pattern tracking financial tool:
 ![patternscout](http://i.imgur.com/vNrLh.png)
 
 Links: [guidants.godmode-trader.de](http://guidants.godmode-trader.de/)
-
-## libraries
-
-Node.js libraries
-
-### leveled
-
-A node.js binding to [LevelDB](http://code.google.com/p/leveldb/) with focus on performance and a minimal api,
-allowing you to write databases in JavaScript.
-
-```js
-var db = leveled('/tmp/db')
-db.set('foo', 'bar')
-```
-
-Repo: [juliangruber/node-leveled](https://github.com/juliangruber/node-leveled)
-
-### fwd
-
-Taking the idea of piping streams into each other and applying that on the concept of EventEmitters.
-
-```js
-// with streams
-streamA.pipe(streamB)
-// with fwd
-fwd(emitterA, emitterB)
-```
-
-Repo: [godmodelabs/fwd](https://github.com/godmodelabs/fwd)
-
-### misc
-
-* [tapedeck](https://github.com/juliangruber/tapedeck) - Run tap(e) tests in your browser with tap output in your terminal
-* [spinner](https://github.com/godmodelabs/spinner)
-
-![spinner](http://i.imgur.com/Iyl0d.png)
 
 ## servers
 
@@ -134,6 +93,53 @@ This also does time loggin, search, resolve/close/etc.
 
 Repo: [godmodelabs/jilla](https://github.com/godmodelabs/jilla)
 
+## libraries
+
+Node.js libraries
+
+### leveled
+
+A node.js binding to [LevelDB](http://code.google.com/p/leveldb/) with focus on performance and a minimal api,
+allowing you to write databases in JavaScript.
+
+```js
+var db = leveled('/tmp/db')
+db.set('foo', 'bar')
+```
+
+Repo: [juliangruber/node-leveled](https://github.com/juliangruber/node-leveled)
+
+### fwd
+
+Taking the idea of piping streams into each other and applying that on the concept of EventEmitters.
+
+```js
+// with streams
+streamA.pipe(streamB)
+// with fwd
+fwd(emitterA, emitterB)
+```
+
+Repo: [godmodelabs/fwd](https://github.com/godmodelabs/fwd)
+
+### misc
+
+* [tapedeck](https://github.com/juliangruber/tapedeck) - Run tap(e) tests in your browser with tap output in your terminal
+* [spinner](https://github.com/godmodelabs/spinner)
+
+![spinner](http://i.imgur.com/Iyl0d.png)
+
+## misc
+
+### llint.chocmixin
+
+A [Chocolat](http://chocolatapp.com/)-Mixin that reorders less/css lines by alphabet and importance.
+
+This uses [llint](https://github.com/juliangruber/llint) and [parseless](https://github.com/juliangruber/parseless), my
+less/css parser.
+
+Link: [mixins.chocolatapp.com](http://mixins.chocolatapp.com/mixins/20/)
+
 ### openmasse
 
 A bookmarklet that helps with opening many links at once.
@@ -147,17 +153,6 @@ A raytracer I wrote for educational purposes in 9th grade. It's written in C++ a
 ![rayboy](http://i.imgur.com/oBHfn.png)
 
 Repo: [juliangruber/rayboy](https://github.com/juliangruber/rayboy)
-
-## misc
-
-### llint.chocmixin
-
-A [Chocolat](http://chocolatapp.com/)-Mixin that reorders less/css lines by alphabet and importance.
-
-This uses [llint](https://github.com/juliangruber/llint) and [parseless](https://github.com/juliangruber/parseless), my
-less/css parser.
-
-Link: [mixins.chocolatapp.com](http://mixins.chocolatapp.com/mixins/20/)
 
 ## papers
 
