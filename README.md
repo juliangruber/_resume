@@ -171,7 +171,7 @@ Link: [jakob-brucker-guymasnium.de](http://jakob-brucker-gymnasium.de/)
 
 A raytracer I wrote for educational purposes in 9th grade. It's written in C++ and can only render colored spheres.
 
-
+![rayboy](http://i.imgur.com/oBHfn.png)
 
 Repo: [juliangruber/rayboy](https://github.com/juliangruber/rayboy)
 
