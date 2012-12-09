@@ -78,6 +78,8 @@ Quickly create timers from your browsers via URLS, eg. [3s timer](http://alrt.io
 
 Needs Google Chrome for notifications.
 
+![alrt.io](http://i.imgur.com/v62bT.png)
+
 Link: [alrt.io](http://alrt.io/)
 Repo: [juliangruber/alrt.io](https://github.com/juliangruber/alrt.io)
 
