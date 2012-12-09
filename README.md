@@ -4,7 +4,7 @@ this is the notable creative stuff I've done (might not be up-to-date)
 
 ## 2012
 
-### chnnls.net
+## chnnls.net
 
 WIP - This is about creating a social network, that
 
@@ -15,7 +15,7 @@ WIP - This is about creating a social network, that
 
 For more, read [channel based networks](https://gist.github.com/4143091)
 
-### guidants.com
+## guidants.com
 
 This is a realtime trading platform that I've been working on for [Boerse Go](http://www.godmode-trader.de/).
 
@@ -23,21 +23,21 @@ This is a realtime trading platform that I've been working on for [Boerse Go](ht
 
 Link: [guidants.godmode-trader.de](http://guidants.godmode-trader.de/)
 
-### leveled
+## leveled
 
 A node.js binding to [LevelDB](http://code.google.com/p/leveldb/) with focus on performance and a minimal api,
 allowing you to write databases in JavaScript.
 
 Repo: [juliangruber/node-leveled](https://github.com/juliangruber/node-leveled)
 
-### contre
+## contre
 
 A continuous release tool that acts as a GIT repo server and lays repos out in a github-style directory structure
 whenever you push to it. I created this for [component](https://github.com/component/component).
 
 Repo: [godmodelabs/contre](https://github.com/godmodelabs/contre)
 
-### fwd
+## fwd
 
 Taking the idea of piping streams into each other and applying that on the concept of EventEmitters.
 
