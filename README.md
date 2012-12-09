@@ -109,13 +109,15 @@ Download: [paper](https://dl.dropbox.com/s/cyy9iv2y1rcqa3s/Ausarbeitung.pdf?dl=1
 ## collab-tunes
 
 I started this with the idea to create a Digital Audio Workstation (DAW) that runs in browsers and allows for easy
-collaboration. This soon became way too complex for one person to do after work, so it's on pause.
+collaboration.
+
+However this soon became way too complex for one person to do after work, so it's on pause.
 
 The drum editor:
 
 ![collab-tunes](http://i.imgur.com/NgVyX.png)
 
-Link: [collab-tunes](http://glowing-waterfall-3782.herokuapp.com/) (needs a recent chome & might take a while to load the first time)
+Link: [collab-tunes](http://glowing-waterfall-3782.herokuapp.com/) (links are shareable! needs a recent chome & might take a while to load the first time)
 
 Also there is a keyboard demo which you can try out [here](http://juliangruber.com/synth.html)
 
