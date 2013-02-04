@@ -182,7 +182,7 @@ Download: [paper](https://dl.dropbox.com/s/cyy9iv2y1rcqa3s/Ausarbeitung.pdf?dl=1
 
 I created the t-shirt and designed cover and logo based on pencil drawings by a friend.
 
-<img src="http://juliangruber.com/images/running-death/cover-call-of-extinction.jpg?cb" width="50%">
+<img src="http://f.cl.ly/items/411q1L0g1b41260q2x2p/Image%202013.02.04%2010:43:08%20AM.png" width="50%">
 <img src="https://dl.dropbox.com/s/dultpww5r5y4unb/artwork_stripes_finalized.jpg" width="50%">
 
 ### misc
