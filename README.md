@@ -58,6 +58,15 @@ Links: [guidants.godmode-trader.de](http://guidants.godmode-trader.de/)
 
 ## servers
 
+### review
+
+![review preview](https://a248.e.akamai.net/camo.github.com/054b61a93ae61870f892657f6c107f1f33eef544/687474703a2f2f662e636c2e6c792f6974656d732f334f317733593058326930733146314d323733782f53637265656e25323053686f74253230323031332d30312d3234253230617425323031322e35302e3338253230504d2e706e67)
+
+Host reviews of your sites in different resolutions to have a quick overview of everything in every resolution.
+Super useful for checking responsive designs or if everything still renders correctly.
+
+Repo: [juliangruber/review](https://github.com/juliangruber/review) | [juliangruber/review-host](https://github.com/juliangruber/review-host)
+
 ### contre
 
 A continuous release tool that acts as a GIT repo server and lays repos out in a github-style directory structure
@@ -173,7 +182,7 @@ Download: [paper](https://dl.dropbox.com/s/cyy9iv2y1rcqa3s/Ausarbeitung.pdf?dl=1
 
 I created the t-shirt and designed cover and logo based on pencil drawings by a friend.
 
-<img src="http://juliangruber.com/images/running-death/cover-call-of-extinction.jpg" width="50%">
+<img src="http://juliangruber.com/images/running-death/cover-call-of-extinction.jpg?cb" width="50%">
 <img src="https://dl.dropbox.com/s/dultpww5r5y4unb/artwork_stripes_finalized.jpg" width="50%">
 
 ### misc
