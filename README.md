@@ -67,6 +67,14 @@ Super useful for checking responsive designs or if everything still renders corr
 
 Repo: [juliangruber/review](https://github.com/juliangruber/review) | [juliangruber/review-host](https://github.com/juliangruber/review-host)
 
+### traffic-light
+
+Monitor you servers with simple dynamic traffic-lights:
+
+![preview](https://raw.github.com/juliangruber/traffic-light/master/images/green.png)
+
+Repo: [juliangruber/traffic-light](https://github.com/juliangruber/traffic-light)
+
 ### contre
 
 A continuous release tool that acts as a GIT repo server and lays repos out in a github-style directory structure
