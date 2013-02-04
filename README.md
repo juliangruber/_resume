@@ -16,7 +16,7 @@ The drum editor:
 Links:
 
 * [drum editor](http://glowing-waterfall-3782.herokuapp.com/) (links are shareable! needs a recent chome & might take a while to load the first time)
-* [synthesizer](http://juliangruber.com/synth.html)
+* [synthesizer](http://juliangruber.com/synth.html) (needs a recent chrome)
 
 Using: redis, node.js, expressjs, socket.io, stylus, jade, jquery, browserify
 
@@ -33,6 +33,8 @@ Links: [alrt.io](http://alrt.io/) | [repo](https://github.com/juliangruber/alrt.
 Using: node.js, expressjs, jade
 
 ### misc
+
+The first I designed myself, was team leader and main coder. The second I did as a freelancer.
 
 <img src="https://dl.dropbox.com/s/4xfil4vgdyxzo9m/Screen%20Shot%202012-12-09%20at%204.10.34%20PM.png" width="50%">
 <img src="https://dl.dropbox.com/s/b8ohr2te9femgwv/Screen%20Shot%202012-12-09%20at%204.11.13%20PM.png" width="50%">
