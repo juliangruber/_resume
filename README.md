@@ -34,13 +34,15 @@ Using: node.js, expressjs, jade
 
 ### misc
 
-The first I designed myself, was team leader and main coder. The second I did as a freelancer.
+The first I designed myself, was team leader and main coder. The second I did as a freelancer. The third was an experiment
+for Firefox OS App Days where I wanted to show simple replication patterns that work offline too.
 
-<img src="https://dl.dropbox.com/s/4xfil4vgdyxzo9m/Screen%20Shot%202012-12-09%20at%204.10.34%20PM.png" width="50%">
-<img src="https://dl.dropbox.com/s/b8ohr2te9femgwv/Screen%20Shot%202012-12-09%20at%204.11.13%20PM.png" width="50%">
+<img src="https://dl.dropbox.com/s/4xfil4vgdyxzo9m/Screen%20Shot%202012-12-09%20at%204.10.34%20PM.png" width="33%">
+<img src="https://dl.dropbox.com/s/b8ohr2te9femgwv/Screen%20Shot%202012-12-09%20at%204.11.13%20PM.png" width="33%">
+<img src="https://a248.e.akamai.net/camo.github.com/6cc60fce42569e4cfbed954e52e8cb0553b01c5d/687474703a2f2f662e636c2e6c792f6974656d732f3277316a30383241314d32393147314b334d324e2f53637265656e25323053686f74253230323031332d30322d30322532306174253230342e35312e3531253230504d2e706e67" width="33%">
 
 Links: [jakob-brucker-gymasnium.de](http://jakob-brucker-gymnasium.de/) |
-[ritterschaft-zu-wasserstein.de](http://ritterschaft-zu-wasserstein.de/)
+[ritterschaft-zu-wasserstein.de](http://ritterschaft-zu-wasserstein.de/) | [ff-replicator.jit.su](http://ff-replicator.jit.su) & [source](https://github.com/juliangruber/ff-replicator)
 
 ## boerse go ag
 
