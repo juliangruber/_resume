@@ -7,7 +7,7 @@ this is the notable creative stuff I've done in no particular order (might not b
 ### collab-tunes
 
 The idea is to create a Digital Audio Workstation (DAW) that runs in browsers and allows for easy
-collaboration, in contrast to current DAW solutions.
+collaboration, in contrast to current DAW solutions. Uses the WebAudio API!
 
 The drum editor:
 
