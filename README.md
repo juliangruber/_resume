@@ -95,7 +95,7 @@ Repo: [godmodelabs/statsc](https://github.com/godmodelabs/statsc)
 Access a levelUp-instance from multiple processes. LevelDB's design forbids you to access a database instance from multiple processes. This (wip) exports the levelUp interface 1:1.
 
 ```js
-var db = multilevel.clien('http://localhost:3000')
+var db = multilevel.client('http://localhost:3000')
 db.set('foo', 'bar')
 ```
 
