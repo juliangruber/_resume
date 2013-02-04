@@ -88,6 +88,17 @@ Push stats to StatsD from the browser!
 
 Repo: [godmodelabs/statsc](https://github.com/godmodelabs/statsc)
 
+### multilevel
+
+Access a levelUp-instance from multiple processes. LevelDB's design forbids you to access a database instance from multiple processes. This (wip) exports the levelUp interface 1:1.
+
+```js
+var db = multilevel.clien('http://localhost:3000')
+db.set('foo', 'bar')
+```
+
+Repo: [juliangruber/multilevel-http](https://github.com/juliangruber/multilevel-http)
+
 ### dashbo
 
 A frontend for the [graphite](http://graphite.wikidot.com/) graphing server with dashboards and other goodies.
@@ -115,6 +126,33 @@ This also does time loggin, search, resolve/close/etc.
 
 Repo: [godmodelabs/jilla](https://github.com/godmodelabs/jilla)
 
+### tapedeck
+
+Run tap(e) tests in your browser with tap output in your terminal
+
+
+```bash
+$ tapedeck test/*.js
+Open up http://localhost:13379 in your browser
+
+TAP version 13
+# editable
+ok 1 input changed
+ok 2 stream received data
+ok 3 el changed
+
+1..3
+# tests 3
+# pass  3
+
+# ok 
+
+$ echo $?
+0
+```
+
+Repo: [juliangruber/tapedeck](https://github.com/juliangruber/tapedeck)
+
 ## libraries
 
 Node.js libraries
@@ -131,17 +169,6 @@ db.set('foo', 'bar')
 
 Repo: [juliangruber/node-leveled](https://github.com/juliangruber/node-leveled)
 
-### multilevel
-
-Access a levelUp-instance from multiple processes. LevelDB's design forbids you to access a database instance from multiple processes. This (wip) exports the levelUp interface 1:1.
-
-```js
-var db = multilevel.clien('http://localhost:3000')
-db.set('foo', 'bar')
-```
-
-Repo: [juliangruber/multilevel-http](https://github.com/juliangruber/multilevel-http)
-
 ### fwd
 
 Taking the idea of piping streams into each other and applying that on the concept of EventEmitters.
@@ -157,7 +184,6 @@ Repo: [godmodelabs/fwd](https://github.com/godmodelabs/fwd)
 
 ### misc
 
-* [tapedeck](https://github.com/juliangruber/tapedeck) - Run tap(e) tests in your browser with tap output in your terminal
 * [spinner](https://github.com/godmodelabs/spinner)
 
 ![spinner](http://i.imgur.com/Iyl0d.png)
