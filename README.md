@@ -34,7 +34,7 @@ Using: node.js, expressjs, jade
 
 ### misc
 
-The first I designed myself, was team leader and main coder. The second I did as a freelancer. The third was an experiment
+The first I designed myself, was team leader and main coder for. The second I did as a freelancer. The third was an experiment
 for Firefox OS App Days where I wanted to show simple replication patterns that work offline too.
 
 <img src="https://dl.dropbox.com/s/4xfil4vgdyxzo9m/Screen%20Shot%202012-12-09%20at%204.10.34%20PM.png" width="33%">
@@ -51,10 +51,6 @@ I'm currently employed at [BoerseGo AG](http://www.godmode-trader.de/).
 This is a realtime trading platform we've been working on:
 
 ![guidants](https://dl.dropbox.com/s/uctk4kygm2bbw85/Screen%20Shot%202012-12-09%20at%204.13.44%20PM.png)
-
-And a pattern tracking financial tool:
-
-![patternscout](https://dl.dropbox.com/s/bj5pden8o1jfa8q/Screen%20Shot%202012-12-09%20at%204.14.37%20PM.png)
 
 Links: [guidants.godmode-trader.de](http://guidants.godmode-trader.de/)
 
@@ -232,10 +228,6 @@ I created the t-shirt and designed cover and logo based on pencil drawings by a 
 <img src="http://f.cl.ly/items/411q1L0g1b41260q2x2p/Image%202013.02.04%2010:43:08%20AM.png" width="50%">
 <img src="https://dl.dropbox.com/s/dultpww5r5y4unb/artwork_stripes_finalized.jpg" width="50%">
 
-### misc
+### c'est moi:
 
-<img src="https://dl.dropbox.com/s/kg6ray02qrykldy/breit.png">
-
-c'est moi:
-
-![surreal](https://dl.dropbox.com/s/pj85an8tyqqarno/5.jpg)
+![julian](https://secure.gravatar.com/avatar/a010d5218f2c3d194dbbac9c5d14d0ad?s=420&d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png)
