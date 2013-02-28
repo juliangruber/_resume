@@ -95,7 +95,7 @@ var db = multilevel.client('http://localhost:3000')
 db.set('foo', 'bar')
 ```
 
-Repo: [juliangruber/multilevel-http](https://github.com/juliangruber/multilevel-http)
+Repo: [juliangruber/multilevel-http](https://github.com/juliangruber/multilevel-http), [juliangruber/multilevel](https://github.com/juliangruber/multilevel)
 
 ### dashbo
 
