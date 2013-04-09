@@ -122,7 +122,7 @@ simple replication patterns that also worked offline.
 
 [ff-replicator.jit.su](http://ff-replicator.jit.su) &amp; [source](https://github.com/juliangruber/ff-replicator)
 
-## servers
+## Servers
 
 ### review
 
@@ -189,7 +189,7 @@ A frontend for the [graphite](http://graphite.wikidot.com/) graphing server with
 
 Repo: [juliangruber/dashbo](https://github.com/juliangruber/dashbo)
 
-## applications
+## Applications
 
 ### jilla
 
@@ -248,7 +248,7 @@ $ echo $?
 
 Repo: [juliangruber/tapedeck](https://github.com/juliangruber/tapedeck)
 
-## libraries
+## Libraries
 
 Node.js and browser libraries
 
@@ -353,7 +353,7 @@ count()
 
 ![spinner](http://i.imgur.com/Iyl0d.png)
 
-## misc
+## Misc
 
 ### llint.chocmixin
 
@@ -378,7 +378,7 @@ A raytracer I wrote for educational purposes in 9th grade. It's written in C++ a
 
 Repo: [juliangruber/rayboy](https://github.com/juliangruber/rayboy)
 
-## papers
+## Papers
 
 ### introduction to erlang
 
@@ -386,7 +386,7 @@ Repo: [juliangruber/rayboy](https://github.com/juliangruber/rayboy)
 
 Download: [paper](https://dl.dropbox.com/s/cyy9iv2y1rcqa3s/Ausarbeitung.pdf?dl=1)
 
-## artworks
+## Artworks
 
 ### running death - the call of extinction
 
@@ -395,6 +395,6 @@ I created the t-shirt and designed cover and logo based on pencil drawings by a 
 <img src="http://f.cl.ly/items/411q1L0g1b41260q2x2p/Image%202013.02.04%2010:43:08%20AM.png" width="50%">
 <img src="https://dl.dropbox.com/s/dultpww5r5y4unb/artwork_stripes_finalized.jpg" width="50%">
 
-### c'est moi:
+### C'est moi:
 
 ![julian](https://secure.gravatar.com/avatar/a010d5218f2c3d194dbbac9c5d14d0ad?s=420&d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png)
