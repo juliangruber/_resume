@@ -217,7 +217,7 @@ $ echo "console.log(document.location)" | browser-run
 # => http://localhost:53227
 ```
 
-Just pipe code into its stdin it will output console output on stdout.
+Just pipe code into its stdin and it will output console-output on stdout.
 
 [Source](https://github.com/juliangruber/browser-run).
 
