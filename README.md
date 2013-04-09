@@ -1,58 +1,126 @@
-# resume
+# Resume
 
-this is the notable creative stuff I've done in no particular order (might not be up-to-date).
+Hi, my name is Julian Gruber.
 
-## websites
+I was **born** in Jan 1991 and currently live in Munich, Germany.
 
-### collab-tunes
+I finished **school** with a 1.9 / A-.
 
-The idea is to create a Digital Audio Workstation (DAW) that runs in browsers and allows for easy
-collaboration, in contrast to current DAW solutions. Uses the WebAudio API!
+I got an extra sheet honoring all my **extra curricular** achievements. I **gave courses**
+in HTML, CSS and PHP and **lead the team** behind the latest version of
+[the school's website](http://jakob-brucker-gymnasium.de/).
 
-The drum editor:
+I **studied** computer science at [Technical University Munich](http://www.tum.de) until I
+quit after 3rd semester. I am mostly **self taught**.
+
+I worked as a **freelancer** while in school, creating 2 websites.
+
+I worked as an **intern** for two startups and am now **employed** at the 2nd one.
+
+I have 77 **open source** projects on
+[github](https://github.com/juliangruber), 62 modules in the
+[node package manager](http://npmjs.org/~juliangruber) and contribute to many
+other open source projects. I landed
+[a commit](https://github.com/joyent/node/commit/738347b90433a38538ab298bf38860e83a4abc53)
+in node core.
+
+I **gave a talk** at ux munich, a usability conference, about bleeding edge
+usability.
+
+I have the desire to take on **different hats**.
+
+I **speak and write** english, german and french (un peu).
+
+I **write** tests, JavaScript (browser &amp; node), C, C++, Ruby, C#,
+Java, HTML5 and CSS3 (and latin).
+
+I **store** stuff in LevelDB, Redis, MySQL, MongoDB, the cloud and my machine.
+
+I **&lt;3**
+
+* clean interfaces in code and design
+* small things that do one thing and do it well
+* simplifying by layering abstractions
+
+But, what can I do for **you**?
+
+## Portfolio
+
+## Websites
+
+### Guidants
+
+This is a realtime financial information platform I've been working on for
+[BoerseGo AG](http://boerse-go.ag):
+
+![guidants](https://dl.dropbox.com/s/uctk4kygm2bbw85/Screen%20Shot%202012-12-09%20at%204.13.44%20PM.png)
+
+[Check it out!](http://go.guidants.com)
+
+### Collab-tunes
+
+A drum editor using the WebAudio API.
 
 ![collab-tunes](https://dl.dropbox.com/s/ntntlpaf5jm8m6z/Screen%20Shot%202012-12-09%20at%204.09.35%20PM.png)
 
-Links:
+[Check it out](http://glowing-waterfall-3782.herokuapp.com/) (links are
+shareable! needs a recent chome &amp; might take a while to load the first
+time).
 
-* [drum editor](http://glowing-waterfall-3782.herokuapp.com/) (links are shareable! needs a recent chome & might take a while to load the first time)
-* [synthesizer](http://juliangruber.com/synth.html) (needs a recent chrome)
+[And a simple synthesizer](http://juliangruber.com/synth.html) (needs a recent
+chrome).
 
 Using: redis, node.js, expressjs, socket.io, stylus, jade, jquery, browserify
 
 ### alrt.io
 
-Quickly create timers from your browsers via URLS, eg. [3s timer](http://alrt.io/3s).
-
-Needs a browser that supports the Notification API, see [caniuse.com](http://caniuse.com/notifications).
+Quickly create timers from your browsers via URLS, eg. this
+[3s timer](http://alrt.io/3s).
 
 ![alrt.io](https://dl.dropbox.com/s/zx37hd68tncgmq4/Screen%20Shot%202012-12-09%20at%204.08.35%20PM.png)
 
-Links: [alrt.io](http://alrt.io/) | [repo](https://github.com/juliangruber/alrt.io)
+Links: [alrt.io](http://alrt.io/) | [source](https://github.com/juliangruber/alrt.io)
 
 Using: node.js, expressjs, jade
 
-### misc
+### ghub.io
 
-The first I designed myself, was team leader and main coder for. The second I did as a freelancer. The third was an experiment
-for Firefox OS App Days where I wanted to show simple replication patterns that work offline too.
+Another little tool useful for [node](http://nodejs.org) developers:
 
-<img src="https://dl.dropbox.com/s/4xfil4vgdyxzo9m/Screen%20Shot%202012-12-09%20at%204.10.34%20PM.png" width="33%">
-<img src="https://dl.dropbox.com/s/b8ohr2te9femgwv/Screen%20Shot%202012-12-09%20at%204.11.13%20PM.png" width="33%">
-<img src="https://a248.e.akamai.net/camo.github.com/6cc60fce42569e4cfbed954e52e8cb0553b01c5d/687474703a2f2f662e636c2e6c792f6974656d732f3277316a30383241314d32393147314b334d324e2f53637265656e25323053686f74253230323031332d30322d30322532306174253230342e35312e3531253230504d2e706e67" width="33%">
+![ghub.io](http://f.cl.ly/items/223t3y3k1o0q3j130o3G/Screen%20Shot%202013-04-09%20at%2010.54.22%20PM.png)
 
-Links: [jakob-brucker-gymasnium.de](http://jakob-brucker-gymnasium.de/) |
-[ritterschaft-zu-wasserstein.de](http://ritterschaft-zu-wasserstein.de/) | [ff-replicator.jit.su](http://ff-replicator.jit.su) & [source](https://github.com/juliangruber/ff-replicator)
+Links: [ghub.io](http://ghub.io) | [source](https://github.com/juliangruber/ghub.io)
 
-## boerse go ag
+### auswertung
 
-I'm currently employed at [BoerseGo AG](http://www.godmode-trader.de/).
+A little interface to Graphite for the marketing department.
 
-This is a realtime trading platform we've been working on:
+![auswertung](http://f.cl.ly/items/02400n2W3v0i2R462d1Y/Screen%20Shot%202013-02-19%20at%202.19.14%20PM.png)
 
-![guidants](https://dl.dropbox.com/s/uctk4kygm2bbw85/Screen%20Shot%202012-12-09%20at%204.13.44%20PM.png)
+### jakob-brucker-gymnasium.de
 
-Links: [guidants.godmode-trader.de](http://guidants.godmode-trader.de/)
+I designed this, was team lead and main developer. Powered by a custom PHP CMS.
+
+![jakob-brucker-gymnasium.de](https://dl.dropbox.com/s/4xfil4vgdyxzo9m/Screen%20Shot%202012-12-09%20at%204.10.34%20PM.png)
+
+[Check it out!](http://jakob-brucker-gymnasium.de)
+
+### ritterschaft-zu-wasserstein.de
+
+I did this as a freelancer.
+
+![ritterschaft-zu-wasserstain.de](https://dl.dropbox.com/s/b8ohr2te9femgwv/Screen%20Shot%202012-12-09%20at%204.11.13%20PM.png)
+
+[Check it out!](http://ritterschaft-zu-wasserstein.de)
+
+### ff-replicator
+
+A little tech demo written at the Firefox OS App Days where I wanted to show
+simple replication patterns that also worked offline.
+
+![ff-replicator](https://a248.e.akamai.net/camo.github.com/6cc60fce42569e4cfbed954e52e8cb0553b01c5d/687474703a2f2f662e636c2e6c792f6974656d732f3277316a30383241314d32393147314b334d324e2f53637265656e25323053686f74253230323031332d30322d30322532306174253230342e35312e3531253230504d2e706e67)
+
+[ff-replicator.jit.su](http://ff-replicator.jit.su) &amp; [source](https://github.com/juliangruber/ff-replicator)
 
 ## servers
 
@@ -97,6 +165,22 @@ db.set('foo', 'bar')
 
 Repo: [juliangruber/multilevel-http](https://github.com/juliangruber/multilevel-http), [juliangruber/multilevel](https://github.com/juliangruber/multilevel)
 
+### level-schedule
+
+A durable job scheduler based on LevelDB that transparently handles crashes.
+
+```js
+Schedule(db)
+  .job('print', function (payload) {
+    console.log(payload);
+  })
+  .run('print', { some : 'json' }, Date.now() + 5000);
+
+// => (after 5s) { some : 'json' }
+```
+
+[Source](https://github.com/juliangruber/level-schedule).
+
 ### dashbo
 
 A frontend for the [graphite](http://graphite.wikidot.com/) graphing server with dashboards and other goodies.
@@ -123,6 +207,19 @@ PS-480       <pkostoff>  ! Trailing stops
 This also does time loggin, search, resolve/close/etc.
 
 Repo: [godmodelabs/jilla](https://github.com/godmodelabs/jilla)
+
+### browser-run
+
+The easiest way of running code in a browser environment.
+
+```bash
+$ echo "console.log(document.location)" | browser-run
+# => http://localhost:53227
+```
+
+Just pipe code into its stdin it will output console output on stdout.
+
+[Source](https://github.com/juliangruber/browser-run).
 
 ### tapedeck
 
@@ -153,7 +250,31 @@ Repo: [juliangruber/tapedeck](https://github.com/juliangruber/tapedeck)
 
 ## libraries
 
-Node.js libraries
+Node.js and browser libraries
+
+### level-store
+
+A streaming storage engine based on LevelDB.
+
+Just pipe a stream (e.g. from a download or a file) into it, read from any
+stream that is already stored or is written to, and resume where you left if
+something bad happened.
+
+```js
+request('http://google.com').pipe(store.createWriteStream('google'));
+```
+
+[Source](https://github.com/juliangruber/level-store).
+
+### level-capped
+
+Add capped collections to LevelDB with 1 line of code!
+
+```js
+cap(db, 'some-key', 10);
+```
+
+[Source](https://github.com/juliangruber/level-capped).
 
 ### leveled
 
@@ -179,6 +300,52 @@ fwd(emitterA, emitterB)
 ```
 
 Repo: [godmodelabs/fwd](https://github.com/godmodelabs/fwd)
+
+### supersize
+
+Make text as big as possible!
+
+![supersize](http://f.cl.ly/items/2i101H063L443q3M0g1t/Screen%20Shot%202013-04-09%20at%2011.12.49%20PM.png)
+
+[Source](https://github.com/juliangruber/supersize).
+
+### turn
+
+A source transformation tool that let converts a mixture of ES6 and lua into
+CommonJS code
+
+```js
+var foo = import './foo.js'
+return function () {
+  return 'bar';
+}
+```
+
+converts to
+
+```js
+var foo = require('./foo.js');
+module.exports = function () {
+  return 'bar';
+};
+```
+
+[Source](https://github.com/juliangruber/turn).
+
+### encounter
+
+```js
+// count up from -2 to 2 in steps of 0.1 every 100ms
+count()
+  .from(-2)
+  .to(2)
+  .step(0.1)
+  .every(100)
+  .start()
+  .on('tick', doSomething);
+```
+
+[Source](https://github.com/juliangruber/encounter).
 
 ### misc
 
