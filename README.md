@@ -16,6 +16,7 @@ quit after 3rd semester. I am mostly **self taught**.
 I worked as a **freelancer** while in school, creating 2 websites.
 
 I worked as an **intern** for two startups and am now **employed** at the 2nd one.
+There are 100 people working there and I made them use GIT, Graphite and StatsD and write tests.
 
 I have 77 **open source** projects on
 [github](https://github.com/juliangruber), 62 modules in the
